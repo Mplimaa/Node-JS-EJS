@@ -24,4 +24,5 @@ Conclusão
 EJS é uma ferramenta poderosa para criar páginas web dinâmicas e interativas com Node.js. Sua integração fácil com Express e sua sintaxe simples tornam-no uma escolha popular para desenvolvimento web, oferecendo uma maneira eficiente de renderizar HTML com dados dinâmicos.
 
 
-
+Licença
+Michele Lima - 2022 | Este projeto só foi possível graças ao compartilhamento de conteúdo da RocketSeet(uma das melhores plataformas de ensino de programação), e pode ser utilizado apenas para o aprendizado e não pode ser vinculado comercialmente.
